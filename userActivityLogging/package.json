@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "aws-sdk": "^2.392.0",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.13",
     "uuid": "^3.3.2"
   }
 }
